@@ -41,6 +41,7 @@ print("Slicing from the second fruit to the end:", fruits[1:])
 fruits_uppercase = [fruit.upper() for fruit in fruits]
 print("List of fruits in uppercase:", fruits_uppercase)
 
+
 # Checking if an item exists in the list
 if "apple" in fruits:
     print("Apple is in the list of fruits.")

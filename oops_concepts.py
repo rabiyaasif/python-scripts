@@ -74,6 +74,7 @@ class MathOperations:
     def multiply(a, b):
         return a * b
 
+
 # Using the classes
 if __name__ == "__main__":
     # Create instances of Car and Motorcycle

@@ -1,4 +1,5 @@
 # Creating a dictionary to store information about a person
+
 person = {
     "name": "John Doe",
     "age": 30,

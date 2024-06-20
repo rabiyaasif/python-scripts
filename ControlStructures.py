@@ -25,11 +25,5 @@ for x in range(4):
 
 
 
-#list
-numbers = [1 , 2, 3]
-max = numbers[0]
-for i in numbers:
-    if i > max:
-     max = i
-print(max)
+
 

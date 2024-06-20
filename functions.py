@@ -1,4 +1,5 @@
 # Function without parameters and without return value
+
 def greet():
     print("Hello, World!")
 

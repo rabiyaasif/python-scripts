@@ -4,6 +4,7 @@ with open('example.txt', 'w') as file:
     file.write("This is a file handling example in Python.\n")
     file.write("Writing to a file is easy.\n")
 
+
 # Reading from a file
 with open('example.txt', 'r') as file:
     content = file.read()

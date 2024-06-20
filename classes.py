@@ -6,6 +6,7 @@ class Person:
         self.age = age    # Instance variable for age
         self.city = city  # Instance variable for city
 
+
     # Method to display person details
     def display_info(self):
         print(f"Name: {self.name}")

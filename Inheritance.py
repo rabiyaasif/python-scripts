@@ -24,6 +24,7 @@ class Cat(Animal):
     def speak(self):
         return f"{self.name} says Meow!"
 
+
 # Creating instances of Dog and Cat
 dog = Dog("Buddy", "Golden Retriever")
 cat = Cat("Whiskers", "Tabby")
