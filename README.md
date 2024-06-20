@@ -4,9 +4,9 @@ This repository contains Python files that I have created while working through 
 
 I have utilized multiple learning sources to enhance my Python skills:
 
--YouTube Tutorials: For visual and step-by-step guidance.
--Stack Overflow: For troubleshooting and learning from community-driven solutions.
--"A Smarter Way to Learn Python" by Mark Myers: For structured learning and hands-on practice exercises.
+- YouTube Tutorials: For visual and step-by-step guidance.
+- Stack Overflow: For troubleshooting and learning from community-driven solutions.
+- "A Smarter Way to Learn Python" by Mark Myers: For structured learning and hands-on practice exercises.
 
 ## Repository Contents
 
