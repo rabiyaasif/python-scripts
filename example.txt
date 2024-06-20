@@ -1,0 +1,4 @@
+Hello, World!
+This is a file handling example in Python.
+Writing to a file is easy.
+Appending a new line to the file.
